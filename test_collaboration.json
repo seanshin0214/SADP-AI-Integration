@@ -1,0 +1,11 @@
+{
+  "title": "GERI 교육 플랫폼 MVP 개발",
+  "description": "AI 기반 교육 혁신 플랫폼 최소 기능 구현",
+  "mode": "sequential",
+  "participants": ["claude", "figma_ai", "cursor_ai"],
+  "requirements": {
+    "skills": ["전략", "디자인", "개발"],
+    "quality_standard": 90
+  },
+  "priority": "high"
+}
